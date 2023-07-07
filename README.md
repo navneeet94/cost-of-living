@@ -1,2 +1,2 @@
 # cost-of-living
-This project is created in power bi which shows data analysis on coountry wise , city expensis and many more
+Perform cost of living data analysis using PowerBI. Visualize key factors like housing, transportation, groceries, etc. Gain insights into regional cost variations and make informed decisions with interactive dashboards. Includes a Cost of Living Calculator based on user selection.
